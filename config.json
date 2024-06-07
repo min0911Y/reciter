@@ -1,0 +1,96 @@
+{
+    "G8U5" : [
+        {
+            "word" : "invite",
+            "meaning": "邀请"
+
+        },
+        {
+            "word" : "disappointed",
+            "meaning": "失望的"
+        },
+        {
+            "word" : "film",
+            "meaning": "电影"
+        },
+        {
+            "word" : "smell",
+            "meaning": "发气味；闻起来；气味"
+        },
+        {
+            "word" : "seem",
+            "meaning": "似乎"
+        },
+        {
+            "word" : "opera",
+            "meaning": "歌剧"
+        },
+        {
+            "word" : "excite",
+            "meaning": "使激动"
+        },
+        {
+            "word" : "care for",
+            "meaning": "照料"
+        },
+        {
+            "word" : "lonely",
+            "meaning": "孤独的"
+        },
+        {
+            "word" : "lively",
+            "meaning": "充满趣味的；充满生气的"
+        },
+        {
+            "word" : "almost",
+            "meaning": "几乎"
+        },
+        {
+            "word" : "mainly",
+            "meaning": "主要地"
+        },
+        {
+            "word" : "role",
+            "meaning": "角色"
+        },
+        {
+            "word" : "facial",
+            "meaning": "面部的"
+        },
+        {
+            "word" : "painting",
+            "meaning": "油画；绘画"
+        },
+        {
+            "word" : "gesture",
+            "meaning": "手势"
+        },
+        {
+            "word" : "frightened",
+            "meaning": "惊吓的；害怕的"
+        },
+        {
+            "word" : "worried",
+            "meaning": "担心的"
+        },
+        {
+            "word" : "in the end",
+            "meaning": "最后"
+        },
+        {
+            "word" : "interested",
+            "meaning": "感兴趣的"
+        },
+        {
+            "word" : "upset",
+            "meaning": "心烦的"
+        },
+        {
+            "word" : "cheer up",
+            "meaning": "振作起来"
+        }
+    ],
+    "recite" : [
+        "G8U5"
+    ]
+}
