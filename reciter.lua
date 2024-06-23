@@ -32,7 +32,7 @@ if flag == 0 then
 end
 assert(words_prof_file)
 
-assert(config, "open errror")
+assert(config, "open error")
 local reciter_config = json.decode(config:read("a"))
 assert(reciter_config, "parse error")
 config:close()
